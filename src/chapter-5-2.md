@@ -3,11 +3,6 @@ Features and Capabilities of ChatGPT
 
 In this chapter, we will explore the features and capabilities of ChatGPT, the AI-powered tool that has the potential to revolutionize medical diagnostics and therapy.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an artificial intelligence tool that uses natural language processing to analyze patient data and provide personalized diagnoses and treatment recommendations. It is based on the GPT (Generative Pre-trained Transformer) architecture developed by OpenAI, which has been pre-trained on large amounts of text data to generate human-like responses.
-
 Features of ChatGPT
 -------------------
 

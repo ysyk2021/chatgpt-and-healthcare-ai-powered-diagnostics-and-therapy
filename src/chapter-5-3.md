@@ -3,11 +3,6 @@ How ChatGPT Can Be Used for Medical Diagnostics and Therapy in Healthcare
 
 In this chapter, we will explore the specifics of ChatGPT and how it can be applied to medical diagnostics and therapy in healthcare.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered language model that uses natural language processing (NLP) to understand and respond to text-based input. It was developed by OpenAI and has been trained on a large corpus of text data, allowing it to generate human-like responses to a wide range of inputs.
-
 Benefits of Using ChatGPT in Healthcare
 ---------------------------------------
 

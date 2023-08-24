@@ -1,5 +1,3 @@
-Explanation of Healthcare Industry and Its Importance
-===================================================================
 
 The healthcare industry is a critical component of modern society, providing essential medical services to individuals and communities. In this chapter, we will explore the definition of the healthcare industry, its importance in society, and the challenges it faces.
 

@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential of ChatGPT to revolutionize medical diagnostics and therapy in the healthcare industry. Here are some key points that we have covered:
 

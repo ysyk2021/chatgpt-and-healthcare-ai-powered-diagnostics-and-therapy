@@ -1,5 +1,3 @@
-Chapter 1: Basics of Healthcare Industry
-========================================
 
 The healthcare industry is a critical component of modern society, providing essential medical services to individuals and communities. In this chapter, we will explore the definition of the healthcare industry, different types of healthcare services, and the importance of medical diagnostics and therapy.
 

@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Healthcare Industry
-=========================================================================================================
 
 In this chapter, we will discuss the steps involved in implementing ChatGPT in the healthcare industry to improve medical diagnostics and therapy.
 

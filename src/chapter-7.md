@@ -1,5 +1,3 @@
-Chapter 6: Future of Healthcare Industry with ChatGPT
-=====================================================
 
 In this chapter, we will explore the potential advancements, emerging trends, and challenges in the healthcare industry with ChatGPT.
 

@@ -1,5 +1,3 @@
-Potential Advancements in Healthcare Industry with ChatGPT
-=================================================================================================================
 
 In this chapter, we will explore the potential advancements that ChatGPT could bring to the healthcare industry in the future.
 

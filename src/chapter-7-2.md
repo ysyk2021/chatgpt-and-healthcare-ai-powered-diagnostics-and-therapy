@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Healthcare Industry and ChatGPT
-========================================================================================================================
 
 In this chapter, we will discuss the emerging trends and challenges in the healthcare industry and how they may impact the future of ChatGPT.
 

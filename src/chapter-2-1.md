@@ -1,5 +1,3 @@
-Definition of Healthcare Industry
-===========================================================================
 
 The healthcare industry is a vast and complex system that provides essential medical services to individuals and communities. In this chapter, we will explore the definition of the healthcare industry and its importance in society.
 

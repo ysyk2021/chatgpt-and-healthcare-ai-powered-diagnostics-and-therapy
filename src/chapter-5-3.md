@@ -1,5 +1,3 @@
-How ChatGPT Can Be Used for Medical Diagnostics and Therapy in Healthcare
-===========================================================================================================
 
 In this chapter, we will explore the specifics of ChatGPT and how it can be applied to medical diagnostics and therapy in healthcare.
 

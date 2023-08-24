@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Healthcare
-====================================================
 
 Artificial intelligence (AI) and chatbots are transforming the healthcare industry by improving medical diagnostics and therapy. In this chapter, we will explore the role of AI and chatbots in healthcare, how they can improve medical diagnostics and therapy, and the benefits of using these technologies for the healthcare industry.
 

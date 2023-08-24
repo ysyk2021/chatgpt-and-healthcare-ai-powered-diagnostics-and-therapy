@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-=====================================================================================
 
 Artificial intelligence (AI) and chatbots are transforming the healthcare industry by improving medical diagnostics and therapy. In this chapter, we will provide an introduction to AI and chatbots and how they are being used in healthcare.
 

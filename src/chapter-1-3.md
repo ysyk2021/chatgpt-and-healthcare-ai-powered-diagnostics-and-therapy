@@ -1,5 +1,3 @@
-The Role of ChatGPT in Improving Diagnostics and Therapy
-======================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the healthcare industry, improving the accuracy and efficiency of medical diagnostics and therapy. ChatGPT, an AI-powered language model, is one such tool that has the potential to transform the way healthcare providers deliver care.
 

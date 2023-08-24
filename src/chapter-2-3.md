@@ -1,5 +1,3 @@
-Importance of Medical Diagnostics and Therapy
-=======================================================================================
 
 The healthcare industry is essential for maintaining the health and wellbeing of individuals and communities. In this chapter, we will explore the basics of the healthcare industry and the importance of medical diagnostics and therapy.
 

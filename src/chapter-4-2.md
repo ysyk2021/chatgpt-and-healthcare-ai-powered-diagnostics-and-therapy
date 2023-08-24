@@ -1,5 +1,3 @@
-How AI and Chatbots can Improve Medical Diagnostics and Therapy
-=====================================================================================================================
 
 Artificial intelligence (AI) and chatbots are transforming the healthcare industry by improving medical diagnostics and therapy. In this chapter, we will explore the role of AI and chatbots in healthcare and how they can be used to improve patient outcomes.
 

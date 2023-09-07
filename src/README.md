@@ -12,3 +12,7 @@ In the following chapters, we will explore the various applications of ChatGPT i
 Overall, 'ChatGPT and Healthcare: AI-Powered Diagnostics and Therapy' is a must-read for anyone interested in leveraging the power of AI and NLP to enhance healthcare outcomes and improve patient care.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

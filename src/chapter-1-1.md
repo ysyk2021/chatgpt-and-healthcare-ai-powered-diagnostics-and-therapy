@@ -1,5 +1,4 @@
-Chapter: Overview of the Book
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Welcome to "ChatGPT and Healthcare: AI-Powered Diagnostics and Therapy." In this book, we explore the revolutionary capabilities of ChatGPT in the field of healthcare. From diagnostics to therapy, ChatGPT has the potential to transform the way healthcare services are delivered, improving patient care and accessibility.
 

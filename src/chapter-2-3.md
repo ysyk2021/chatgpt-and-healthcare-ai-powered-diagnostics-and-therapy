@@ -1,5 +1,4 @@
-Chapter: Importance of Medical Diagnostics and Therapy
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Medical diagnostics and therapy are crucial components of healthcare that play a vital role in patient care and treatment. In this chapter, we will explore the importance of medical diagnostics and therapy in improving health outcomes.
 

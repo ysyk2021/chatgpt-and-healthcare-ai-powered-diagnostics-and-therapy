@@ -1,5 +1,4 @@
-Chapter: Different Types of Healthcare Services
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The healthcare industry encompasses a wide range of services aimed at promoting, maintaining, and restoring health. In this chapter, we will explore the different types of healthcare services available to patients.
 

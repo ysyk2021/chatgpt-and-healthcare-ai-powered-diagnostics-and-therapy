@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Medical Diagnostics and Therapy
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the impact of various challenges associated with integrating ChatGPT and AI-powered diagnostics and therapy in the field of healthcare. These challenges can have significant implications for the effectiveness, reliability, and ethical use of AI in medical applications.
 

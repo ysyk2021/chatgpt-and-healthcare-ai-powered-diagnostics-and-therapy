@@ -1,5 +1,4 @@
-Chapter: Definition of the Healthcare Industry
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The healthcare industry plays a vital role in providing medical goods and services to individuals and communities. In this chapter, we will discuss the definition and scope of the healthcare industry.
 

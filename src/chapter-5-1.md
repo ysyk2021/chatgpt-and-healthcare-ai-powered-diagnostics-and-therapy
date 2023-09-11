@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, short for "Chat-based GPT," is an AI-powered conversational agent developed by OpenAI. It is based on the GPT (Generative Pre-trained Transformer) architecture, a state-of-the-art language model that has been fine-tuned specifically for generating human-like text responses.
 

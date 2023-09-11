@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Improving Medical Diagnostics and Therapy
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT and AI-powered technologies has transformed the healthcare industry, particularly in medical diagnostics and therapy. This chapter explores best practices for utilizing ChatGPT effectively in improving medical diagnostics and therapy outcomes.
 

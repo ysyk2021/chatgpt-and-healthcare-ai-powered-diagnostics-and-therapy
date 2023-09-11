@@ -1,5 +1,4 @@
-Chapter: Factors Affecting the Healthcare Industry
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the various factors that impact the healthcare industry's integration of ChatGPT and AI-powered diagnostics and therapy. These factors can have significant implications for healthcare providers, patients, and the overall effectiveness of AI in healthcare.
 

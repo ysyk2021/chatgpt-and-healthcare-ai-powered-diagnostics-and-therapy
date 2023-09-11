@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in the Healthcare Industry and ChatGPT
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The healthcare industry is constantly evolving, driven by advancements in technology and the integration of AI-powered tools like ChatGPT. In this chapter, we will explore some of the emerging trends and challenges that both the healthcare industry and ChatGPT face.
 

@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Be Used for Medical Diagnostics and Therapy in Healthcare
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) technologies, such as ChatGPT, have the potential to revolutionize medical diagnostics and therapy in the healthcare industry. In this chapter, we will explore how ChatGPT can be utilized to enhance these crucial aspects of patient care.
 

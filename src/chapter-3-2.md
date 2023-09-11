@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Healthcare Providers and Patients
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the common challenges that healthcare providers and patients encounter when implementing ChatGPT and AI-powered diagnostics and therapy in healthcare settings. These challenges impact various aspects of patient care and require careful consideration for successful integration.
 

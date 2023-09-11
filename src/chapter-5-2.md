@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, an AI-powered language model developed by OpenAI, comes with a range of features and capabilities that make it a powerful tool in healthcare diagnostics and therapy. In this chapter, we will explore the key features and functionalities of ChatGPT.
 
